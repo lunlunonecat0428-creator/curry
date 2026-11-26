@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>庫里宇宙｜線上聊天</title>
+  <title>庫里宇宙</title>
   <style>
     body { margin: 0; font-family: system-ui, 'Microsoft JhengHei', sans-serif; background: #f6f8fb; color: #253047; }
     main { max-width: 760px; margin: 12vh auto; padding: 24px; text-align: center; }
